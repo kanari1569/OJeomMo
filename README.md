@@ -55,24 +55,19 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
 
 + 글 작성 화면
   + 인원수, 배달 여부, 음식 종류를 선택하여 게시글을 작성할 수 있습니다.
- 
-    
-    
+  </br>
   <img src="https://github.com/user-attachments/assets/a8ca64d6-0404-41f6-86a4-06fd9f58a0ad" width="400" height="600"/>
 
 
 + 게시글 보기 화면
   + 작성자 이외의 회원이 글을 볼 경우 참여 아이콘이 활성화됩니다.
-
-
-    
+  </br>
   <img src="https://github.com/user-attachments/assets/1a8b8316-e6aa-42c0-8f7c-bd42d1958b6f" width="400" height="600"/>
 
 
 + 참여 아이콘 활성화 화면
   + 활성화된 참여 아이콘을 클릭하면 사용자의 아이디가 목록에 추가됩니다.
-
-
+  </br>
    <img src="https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca" width="400" height="600"/>
 
 ## 3 기능
