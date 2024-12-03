@@ -12,9 +12,50 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
 
 ---
 
-##  백엔드
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+##  BACKEND
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> ![jwt 기술스택 이미지](https://github.com/user-attachments/assets/3ccca7b4-3925-4272-b4ed-dfce1fc8826e)
 
-#### * 데이터베이스
-    언어: SQL
-    DB관리 시스템: Maria DB
+##  DATABASE
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+
+## FRONTEND
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+## INFRA
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/GitAction-181717?style=for-the-badge&logo=github&logoColor=white"> 
+
+## IDE
+<img src="https://img.shields.io/badge/Intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
+## TOOL
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+---
+## 1. 기획배경
++ 카카오 클라우드 스쿨에 등교하며 점심 식사와 함께할 인원에 대한 고민을 하는 클래스 메이트들의 모습을 짧지않은 시간 보아왔습니다. 클래스 메이트들에게 보다 편리하게 점심 식사 스케쥴을 세울 기회를 제공함과 동시에, 미니 프로젝트지만 실사용 가치가 있는 웹 서비스를 구현하고자 하는 희망에 “오늘 점심 뭐먹지?” → 오점뭐? 를 기획하게 되었습니다.
+
+  
++ 본 프로젝트는 2주라는 짧은 개발 기간 동안 협업으로 이루어지는 프로젝트로, 프로젝트 규모를 작게 해 기획부터 개발, 운영, 그리고 유지 보수까지 일반적인 프로젝트에서 이루어지는 과정을 모두 경험하는 것을 목표로 하고 있습니다.
+
+## 2. 기능
+
+### UI
++ 로그인 화면
+  ![메인화면1](https://github.com/user-attachments/assets/8818b99e-2b74-4e59-a7f2-c7cc4f22c394)
+
++ 회원가입 화면
+  ![회원가입화면](https://github.com/user-attachments/assets/ce1386f9-bc35-4766-815a-13b77ad39f76)
+
++ 메인 화면
+  ![홈페이지메인](https://github.com/user-attachments/assets/77ad41c5-ff67-4465-a1d6-84e42b47c204)
+
++ 글 작성 화면
+  ![글작성화면](https://github.com/user-attachments/assets/a8ca64d6-0404-41f6-86a4-06fd9f58a0ad)
+
++ 게시글 보기 화면
+  ![게시글 보기](https://github.com/user-attachments/assets/1a8b8316-e6aa-42c0-8f7c-bd42d1958b6f)
+
++ 참여 아이콘 활성화 화면
+  ![참여 아이콘 활성 화면](https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca)
+
+
