@@ -43,17 +43,22 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
 + 로그인 화면
   ![메인화면1](https://github.com/user-attachments/assets/8818b99e-2b74-4e59-a7f2-c7cc4f22c394)
 
+
 + 회원가입 화면
   ![회원가입화면](https://github.com/user-attachments/assets/ce1386f9-bc35-4766-815a-13b77ad39f76)
+
 
 + 메인 화면
   ![홈페이지메인](https://github.com/user-attachments/assets/77ad41c5-ff67-4465-a1d6-84e42b47c204)
 
+
 + 글 작성 화면
   ![글작성화면](https://github.com/user-attachments/assets/a8ca64d6-0404-41f6-86a4-06fd9f58a0ad)
 
+
 + 게시글 보기 화면
   ![게시글 보기](https://github.com/user-attachments/assets/1a8b8316-e6aa-42c0-8f7c-bd42d1958b6f)
+
 
 + 참여 아이콘 활성화 화면
   ![참여 아이콘 활성 화면](https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca)
