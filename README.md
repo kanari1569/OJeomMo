@@ -37,6 +37,10 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
   
 + 본 프로젝트는 2주라는 짧은 개발 기간 동안 협업으로 이루어지는 프로젝트로, 프로젝트 규모를 작게 해 기획부터 개발, 운영, 그리고 유지 보수까지 일반적인 프로젝트에서 이루어지는 과정을 모두 경험하는 것을 목표로 하고 있습니다.
 
+<img src="https://github.com/user-attachments/assets/6a03b052-0aba-481c-9343-906fe0ef4399" align="right">
+
+
+
 ## 2. UI
 
 + 로그인 화면
@@ -70,17 +74,20 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
   </br>
    <img src="https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca" width="400" height="600"/>
 
-## 3 기능
 
 ## 시스템 아키텍처
 ![시스템 아키텍처 JPG](https://github.com/user-attachments/assets/3a6fc9b5-bce6-43c4-a3e5-e7bc9688b1df)
 
 ## 업무 분장
 #### FRONTEND
-     김태민, 최현지
+     김태민, 최현지 - 각종 페이지 UI 설계 및 구현
 #### 회원, 로그인
-     김준연, 이상현
+     김준연, 이상현 - 회원 정보관리, JWT 토큰을 활용한 인증 및 예외처리 기능 구현
 #### 게시글 CRUD
-     김연수, 김종민
+     김연수, 김종민 - 기본적인 게시글의 CRUD, 게시글 끌올, 참여 기능 구현
+#### 배포
+     김연수, 이상현 - GitAction을 사용한 무중단 배포 기능 구현
+		
+		
 
 
