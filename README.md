@@ -37,30 +37,55 @@ https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
   
 + 본 프로젝트는 2주라는 짧은 개발 기간 동안 협업으로 이루어지는 프로젝트로, 프로젝트 규모를 작게 해 기획부터 개발, 운영, 그리고 유지 보수까지 일반적인 프로젝트에서 이루어지는 과정을 모두 경험하는 것을 목표로 하고 있습니다.
 
-## 2. 기능
+## 2. UI
 
-### UI
 + 로그인 화면
-  ![메인화면1](https://github.com/user-attachments/assets/8818b99e-2b74-4e59-a7f2-c7cc4f22c394)
 
+  <img src="https://github.com/user-attachments/assets/8818b99e-2b74-4e59-a7f2-c7cc4f22c394" width="800" height="400"/>
 
 + 회원가입 화면
-  ![회원가입화면](https://github.com/user-attachments/assets/ce1386f9-bc35-4766-815a-13b77ad39f76)
+
+  <img src="https://github.com/user-attachments/assets/ce1386f9-bc35-4766-815a-13b77ad39f76" width="800" height="400"/>
 
 
 + 메인 화면
-  ![홈페이지메인](https://github.com/user-attachments/assets/77ad41c5-ff67-4465-a1d6-84e42b47c204)
+
+  <img src="https://github.com/user-attachments/assets/77ad41c5-ff67-4465-a1d6-84e42b47c204" width="800" height="400"/>
 
 
 + 글 작성 화면
-  ![글작성화면](https://github.com/user-attachments/assets/a8ca64d6-0404-41f6-86a4-06fd9f58a0ad)
+  + 인원수, 배달 여부, 음식 종류를 선택하여 게시글을 작성할 수 있습니다.
+ 
+    
+    
+  <img src="https://github.com/user-attachments/assets/a8ca64d6-0404-41f6-86a4-06fd9f58a0ad" width="400" height="600"/>
 
 
 + 게시글 보기 화면
-  ![게시글 보기](https://github.com/user-attachments/assets/1a8b8316-e6aa-42c0-8f7c-bd42d1958b6f)
+  + 작성자 이외의 회원이 글을 볼 경우 참여 아이콘이 활성화됩니다.
+
+
+    
+  <img src="https://github.com/user-attachments/assets/1a8b8316-e6aa-42c0-8f7c-bd42d1958b6f" width="400" height="600"/>
 
 
 + 참여 아이콘 활성화 화면
-  ![참여 아이콘 활성 화면](https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca)
+  + 활성화된 참여 아이콘을 클릭하면 사용자의 아이디가 목록에 추가됩니다.
+
+
+   <img src="https://github.com/user-attachments/assets/e98df3cb-a331-465f-ac66-f4054eee8cca" width="400" height="600"/>
+
+## 3 기능
+
+## 시스템 아키텍처
+![시스템 아키텍처 JPG](https://github.com/user-attachments/assets/3a6fc9b5-bce6-43c4-a3e5-e7bc9688b1df)
+
+## 업무 분장
+#### FRONTEND
+     김태민, 최현지
+#### 회원, 로그인
+     김준연, 이상현
+#### 게시글 CRUD
+     김연수, 김종민
 
 
