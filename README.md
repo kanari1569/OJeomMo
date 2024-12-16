@@ -9,8 +9,6 @@
 
 #### 커밋 컨벤션
 https://gitmoji.dev/
-#### 노션
-https://www.notion.so/b5d14ad21b4f44adbd3de4d7f7dcb7ed
 
 ---
 
